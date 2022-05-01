@@ -1,0 +1,34 @@
+body {
+    background-color: darkgreen;
+}
+
+.titulo {
+    color: antiquewhite;
+    size: 3rem;
+    text-align: center;
+}
+/* visor numero */
+.marcador {
+    background-color: aliceblue;
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+    width: 5rem;
+}
+
+ .contador{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+ }
+
+ button {
+     background-color: rgb(65, 93, 222);
+     color: aqua;
+     border-radius: 4rem;
+     padding: 1.5rem;
+     font-size: 1.5rem;
+ }
+
+ 
